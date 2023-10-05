@@ -14,5 +14,6 @@ namespace YamaminGomoku
     public partial class App : Application
     {
 	//branch1 test
+        //change2
     }
 }

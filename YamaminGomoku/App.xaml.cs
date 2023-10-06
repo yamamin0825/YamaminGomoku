@@ -6,6 +6,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
+//branch1test
+
 namespace YamaminGomoku
 {
     /// <summary>

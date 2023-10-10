@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 //branch2 test
+//aaa
 
 namespace YamaminGomoku
 {

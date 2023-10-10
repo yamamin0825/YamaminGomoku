@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 //branch2 test
 //bbb
 //ccc
+//ddd
 
 namespace YamaminGomoku
 {
